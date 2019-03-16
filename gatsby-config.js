@@ -9,7 +9,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Đoàn Bình và Cuộc Sống Akoro',
-    siteUrl: 'https://akoro.site/',
+    siteUrl: 'https://ACMarketchrome.com',
     rssFeedTitle: 'cuocsonganvui',
     rssFeedDescription: 'Đoàn Bình và Cuộc Sống An Vui, đức phật dạy làm người',
   },
