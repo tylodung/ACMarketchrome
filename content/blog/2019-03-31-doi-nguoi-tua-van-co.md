@@ -1,5 +1,5 @@
 ---
-title: Đời người tựa ván cờ THÀNH CÔNG hay THẤT BẠI đều nằm ở tâm thái
+title: Đời người tựa ván cờ Thành Công hay Thất Bại đều nằm ở tâm thái
 author: [gaearon]
 ---
 Trong cuộc sống, có những người dù có tài và học thức cao nhưng vẫn không thành công, có những người tuy rất bình thường nhưng vẫn luôn đạt được. Chuyện thành – bại, được – mất phụ thuộc rất lớn vào tâm thái của mỗi người…
@@ -37,5 +37,3 @@ Người hiền lành, nhân đức chính là người thông minh nhất. Ngư
 Chúng ta làm việc cần dựa vào nhân phẩm, nhưng kiêng kị nhất là kiểu khôn ngoan giảo hoạt. Người khôn ngoan, thường thích dùng thủ đoạn hại người. Điều đó có thể nhất thời thành công, nhất thời đắc ý, nhưng cuối cùng sẽ thất bại. Tựa như xây nhà, cần đầy đủ gạch, đá, cát, xi-măng… mới xây được một căn nhà vững chắc, nhưng nếu ăn bớt nguyên liệu, nhìn có vẻ như tiết kiệm, nhưng kết quả nó chắc chắn sẽ là ngôi nhà hại người.
 
 Phàm là người thông minh đều có những tính toán rất giỏi, nhưng kết quả cuối cùng lại thường không như ý muốn. Những người này thường oán trời trách đất, nhưng không mấy ai biết rằng trong sự tính toán đều là muốn chiếm lợi cho mình, mang theo cái tâm bất thiện với người khác, cho nên, vận mệnh không thể khởi sắc được, mà tâm trí cũng chẳng có ngày nào được an vui.
-
-*Tuệ Tâm biên dịch*

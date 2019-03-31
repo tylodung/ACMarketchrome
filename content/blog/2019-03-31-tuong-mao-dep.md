@@ -1,5 +1,5 @@
 ---
-title: Để có tướng mạo XINH ĐẸP và PHÚC HẬU
+title: Để có tướng mạo Xinh Đẹp và Phúc Hậu
 author: [zpao]
 ---
 
@@ -35,4 +35,3 @@ Không giành là từ bi, không biện là trí tuệ, không nghe là thanh t
 
 **9.** Kiếp này, bất kể thứ gì cũng sẽ không mang đi được, vậy nên hãy sống với hiện tại, cười với hiện tại, và hãy ngộ ngay bây giờ!
 
-*Lục Anh (St)​*
