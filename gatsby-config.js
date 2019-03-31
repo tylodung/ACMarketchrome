@@ -8,10 +8,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: 'Đoàn Bình và Cuộc Sống Akoro',
+    title: 'Đoàn Bình và Cuộc Sống ACMarket',
     siteUrl: 'https://ACMarketchrome.com',
     rssFeedTitle: 'cuocsonganvui',
-    rssFeedDescription: 'Đoàn Bình và Cuộc Sống An Vui, đức phật dạy làm người',
+    rssFeedDescription: 'Đoàn Bình và Cuộc Sống ACMarket',
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',

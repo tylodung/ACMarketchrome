@@ -87,7 +87,7 @@ const Header = ({location}) => (
                 border: 0,
               },
             }}>
-            Cuộc Sống Akoro
+            Cuộc Sống ACMarket
           </span>
         </Link>
 
@@ -116,7 +116,7 @@ const Header = ({location}) => (
           }}>
           <HeaderLink
             isActive={location.pathname.includes('/blog')}
-            title="Xoa dịu vết thương và Cuộc sống tốt"
+            title="Từ Bi và Cuộc sống tốt"
             to="/blog/"
           />
         </nav>
@@ -148,7 +148,7 @@ const Header = ({location}) => (
                 borderRadius: 15,
               },
             }}
-            href="https://akoro.site/"
+            href="https://acmarketchrome.com/"
             target="_blank"
             rel="noopener">
             Bakadono {version}

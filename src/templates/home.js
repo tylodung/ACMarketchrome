@@ -42,7 +42,7 @@ class Home extends Component {
 
   render() {
     const {data} = this.props;
-    const title = 'Đoàn Bình & Cuộc Sống Akoro';
+    const title = 'Đoàn Bình & Cuộc Sống Acmarket';
 
     return (
       <div css={{width: '100%'}}>
@@ -92,7 +92,7 @@ class Home extends Component {
                     fontSize: 60,
                   },
                 }}>
-                Cuộc Sống Tươi Đẹp mỗi ngày
+                Mỗi Ngày Một Niềm Vui
               </h1>
               <p
                 css={{
