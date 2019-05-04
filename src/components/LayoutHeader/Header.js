@@ -87,7 +87,7 @@ const Header = ({location}) => (
                 border: 0,
               },
             }}>
-            Cuộc Sống ACMarket
+            Cuộc Sống Thiện Lương
           </span>
         </Link>
 
