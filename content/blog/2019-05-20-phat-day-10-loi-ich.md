@@ -1,13 +1,15 @@
 ---
-title: Phật dạy về 10 lợi ích của việc tu tập TÂM TỪ
-author: [jimfb]
+title: 10 lợi ích của việc tu tập Tâm Từ
+author: [doanbinh]
 ---
+
+Lúc giận, máu trong cơ thể chạy mau gấp đôi ba lần lúc bình thường, trở nên nóng, dồn lên làm đỏ mặt tía tai. Tâm Từ trái lại làm cho tinh thần vui vẻ, thân có cảm giác thoải mái an lành, máu được thanh lọc trong sạch và gương mặt hiền từ dễ mến.
 
 Người có tâm Từ gương mặt tươi sáng vì gương mặt là phản ảnh của nội tâm.
 
-![ten buc hinh](http://cdnnews.9phut.com/ImagesNews/2016/11/03/21024.jpg "ten buc hinh")
+![ten buc hinh](https://3.bp.blogspot.com/-ztKabAys6Js/WOyiVItJuYI/AAAAAAAAB7Q/-hp41eYCklQXx5YaxdimW7lTVeUJu1MJgCLcB/s1600/choi-voi-tuoi-30-cua-nang-doc-than-co-doc-1.jpg "ten buc hinh")
 
-Lúc giận, máu trong cơ thể chạy mau gấp đôi ba lần lúc bình thường, trở nên nóng, dồn lên làm đỏ mặt tía tai. Tâm Từ trái lại làm cho tinh thần vui vẻ, thân có cảm giác thoải mái an lành, máu được thanh lọc trong sạch và gương mặt hiền từ dễ mến.
+
 
 **1)** Người có tâm từ luôn luôn ngủ được an vui. Ngủ với tâm trạng thơ thới, không giận hờn, không lo âu sợ sệt, tự nhiên giấc ngủ sẽ đến dễ dàng. Mỗi người đều có thể kinh nghiệm. Người có tâm Từ nhắm mắt là ngủ, và ngủ ngon lành.
 

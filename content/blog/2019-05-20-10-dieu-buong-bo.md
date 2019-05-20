@@ -1,6 +1,6 @@
 ---
-title: 10 điều đáng BUÔNG BỎ nhất để cuộc đời an nhàn và phú quý
-author: [zpao]
+title: Mười điều đáng Buông Bỏ nhất để cuộc đời an nhàn và phú quý
+author: [doanbinh]
 ---
 
 Có những điều, nếu khư khư ôm lấy trong lòng chỉ khiến bạn thêm phiền muộn, đau khổ mà thôi. Dưới đây là 10 điều người xưa răn nhất định phải học cách buông.
@@ -67,5 +67,3 @@ Loại bỏ đi suy nghĩ những người khác luôn hạnh phúc hơn, giàu 
 Người có tư tưởng bi quan thì tinh thần sẽ sa sút, nhìn vấn đề sẽ luôn nhìn thấy mặt không tốt, nghĩ sự việc gì cũng nghĩ đến mặt không thành công, thường tự cảm thấy bản thân không bằng người khác. Người xưa có câu rằng, ông trời sinh ra ai thì người đó tất sẽ có hữu dụng.
 
 Mỗi người đều có ưu điểm nổi trội của riêng mình. Phát huy ưu điểm của bản thân, thực sự đặt tâm vào làm những việc mình có khả năng, sau một thời gian sẽ có thể thành công.
-
-*Tĩnh Tâm sưu tầm​*
