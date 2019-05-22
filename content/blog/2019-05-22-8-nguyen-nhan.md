@@ -1,6 +1,6 @@
 ---
 title: 8 nguyên nhân dẫn tới Ác Nghiệp phải chịu quả báo lớn nhất
-author: [acdlite]
+author: [doanbinh]
 ---
 
 Bất hiếu với cha mẹ là tội nghiệp lớn nhất trên đời. Vì đâu mà phạm phải loại ác nghiệp bị quả báo đời đời này.
