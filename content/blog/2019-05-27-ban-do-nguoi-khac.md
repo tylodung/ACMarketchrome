@@ -1,11 +1,11 @@
 ---
-title: ĐỪNG cầm bản đồ của người khác để dò đường cho chính mình
-author: [sophiebits]
+title: Đừng cầm bản đồ của người khác để dò đường cho chính mình
+author: [doanbinh]
 ---
 
 Cuộc sống, mỗi người đều có con đường riêng, không ai có thể đi thay cho bạn được. Cũng đừng hâm mộ người khác, bởi mỗi người đều có chỗ khó xử của riêng mình…
 
-![ten buc hinh](http://2.tinhhoa.net/wpcontent/uploads/2014/08/0GG2kcEHV5.jpeg "ten buc hinh")
+![ten buc hinh](https://images.guucdn.net/full/2019/05/16/da421da1a4f92bf2aa951e8ea5e9e93edbbe8e8c.jpg "ten buc hinh")
 
 **Cuộc đời có vô vàn cách sống, sống cho bản thân mới là điều nên làm**
 
@@ -37,7 +37,6 @@ Tuy nhiên, không phải cứ tiến lên là lập tức sẽ có thành quả
 
 Nếu không có đau thương, sao chúng ta học được cách kiên cường? Nếu không có suy sụp, sao chúng ta học được cách đối mặt? Mỗi một lần trải nghiệm đều là một lần tích lũy. Mỗi một lần vấp ngã đều là quá trình rèn luyện.
 
-![ten buc hinh](http://2.tinhhoa.net/wpcontent/uploads/2014/08/full_7404677.jpg "ten buc hinh")
 
 Suy nghĩ đơn giản một chút, chuyện gì cần xảy đến thì nhất định sẽ đến, cứ việc làm tốt chính mình, vui vẻ một chút, như thế mới là không uổng phí kiếp nhân sinh.
 
@@ -67,4 +66,3 @@ Xem nhẹ, buông bớt đau thương, chúng ta mới có thể trưởng thàn
 
 Nhân sinh, chờ mong quá nhiều tất sẽ thất vọng nhiều. Có một số việc, buông bỏ chưa hẳn đã không thoải mái; có một số người, nhớ sâu nhớ kỹ chưa hẳn đã là hạnh phúc. Tự mình vun đắp tâm hồn mình, làm một người đơn giản, sống cuộc đời đơn giản, như vậy, hạnh phúc chính là đang nằm trong tay bạn rồi đó!
 
-*Tuệ Tâm biên dịch - Theo Tinh Hoa​*
